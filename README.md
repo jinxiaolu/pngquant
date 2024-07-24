@@ -1,1 +1,2 @@
 # pngquant
+pngquant jni
